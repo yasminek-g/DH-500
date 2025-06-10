@@ -4,7 +4,7 @@ Drawing from the Political Deepfake Incident Database (PDID), this project aims 
 
 ## Research Questions
 We first investigate the online artifacts themselves, analyzing the narratives embedded in the shared deepfakes:
--   **RQ1:** What are the dominant narrative elements—textually and visuall—used in political deepfakes?
+-   **RQ1:** What are the dominant narrative elements—textually and visual—used in political deepfakes?
 -   **RQ2:** Which attributes of a political deepfake predict higher levels of virality and engagement?
 
 We further explore how political deepfakes travel through the information ecosystem and intersect with real-world events:
@@ -52,7 +52,7 @@ The data is organized into three main directories:
 
 ## Setup
 
-Most notebooks run on Colab, with necessary installations included in the notebooks. 
+All notebooks run on Colab, with necessary installations included in the notebooks. 
 
 ## References 
 C. P. Walker, D. S. Schiff, and K. J. Schiff, "Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database," in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 21, pp. 23053–23058, Mar. 2024. doi: 10.1609/aaai.v38i21.30349.
