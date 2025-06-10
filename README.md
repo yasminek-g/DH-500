@@ -50,7 +50,7 @@ The data is organized into three main directories:
 -   **`/data/descriptive narrative extraction/`**: Contains the data extracted from the PDID, including text and metadata.
 -   **`/data/visual extraction/`**: Contains the visual data added to the PDID, including emotions, objects, and symbols.
 
-The data is stored on Google Drive for easy access and sharing. Request access here: [PDID Project Data Access Request](https://drive.google.com/drive/folders/1VQBgzOIEVJfY7qDS1w2F0Gq0UK6l3oKF?usp=drive_link).
+The data is stored on Google Drive for easy access and sharing in the same structure as above. Any loose files are left for the sole purpose of being able to run the notebooks. Request access here: [PDID Project Data Access Request](https://drive.google.com/drive/folders/1VQBgzOIEVJfY7qDS1w2F0Gq0UK6l3oKF?usp=drive_link).
 
 ## Setup
 
