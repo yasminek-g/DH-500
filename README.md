@@ -39,7 +39,7 @@ project_root
     -   `2 - regression`: Regression modeling to predict virality for RQ2.
     -   `3 - dissemination`: Time-series analysis of dissemination patterns for RQ3.
 -   **`/data preparation/`**: Scripts for preprocessing and cleaning the raw data.
--   **`/data/`**: Contains the raw, intermediate, and final datasets used in the analysis.
+-   **`/data/`**: Contains the raw, intermediate, and final datasets used in the analysis. Due to space constraints, this is not included in the final .zip file. See [Data](#data) for more details.
 -   **`/docs/`**: Includes the research paper and appendix.
 -   **`/figures/`**: Stores charts, plots, and other figures generated during the analysis.
 -   **`/models/`**: Contains saved models, such as the topic model.
@@ -49,6 +49,8 @@ The data is organized into three main directories:
 -   **`/data/initial data/`**: Contains the data retrieved from the snapshot of the Political Deepfake Incident Database (PDID), with filterings based on year and type of fake (deepfake). 
 -   **`/data/descriptive narrative extraction/`**: Contains the data extracted from the PDID, including text and metadata.
 -   **`/data/visual extraction/`**: Contains the visual data added to the PDID, including emotions, objects, and symbols.
+
+The data is stored on Google Drive for easy access and sharing. Request access here: [PDID Project Data Access Request](https://drive.google.com/drive/folders/1VQBgzOIEVJfY7qDS1w2F0Gq0UK6l3oKF?usp=drive_link).
 
 ## Setup
 
