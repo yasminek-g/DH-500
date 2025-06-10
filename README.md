@@ -4,7 +4,7 @@ Drawing from the Political Deepfake Incident Database (PDID), this project aims 
 
 ## Research Questions
 We first investigate the online artifacts themselves, analyzing the narratives embedded in the shared deepfakes:
--   **RQ1:** What are the dominant narrative elements—textually and visual—used in political deepfakes?
+-   **RQ1:** What are the dominant narrative elements—textually and visually—used in political deepfakes?
 -   **RQ2:** Which attributes of a political deepfake predict higher levels of virality and engagement?
 
 We further explore how political deepfakes travel through the information ecosystem and intersect with real-world events:
