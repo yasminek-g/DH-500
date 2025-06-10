@@ -1,6 +1,6 @@
 # Framing Deception: A Multi-Modal Analysis of Political Deepfake Narratives
 
-Drawing from the Political Deepfake Incident Database (PDID), this project aims to analyze the narrative elements encoded in political deepfakes, the attributes that predict their engagement, and the patterns of their dissemination to understand their impact on the information ecosystem.
+Drawing from the Political Deepfake Incident Database (PDID) [1], this project aims to analyze the narrative elements encoded in political deepfakes, the attributes that predict their engagement, and the patterns of their dissemination to understand their impact on the information ecosystem.
 
 ## Research Questions
 We first investigate the online artifacts themselves, analyzing the narratives embedded in the shared deepfakes:
@@ -55,4 +55,4 @@ The data is organized into three main directories:
 All notebooks run on Colab, with necessary installations included in the notebooks. 
 
 ## References 
-C. P. Walker, D. S. Schiff, and K. J. Schiff, "Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database," in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 21, pp. 23053–23058, Mar. 2024. doi: 10.1609/aaai.v38i21.30349.
+[1] C. P. Walker, D. S. Schiff, and K. J. Schiff, "Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database," in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 21, pp. 23053–23058, Mar. 2024. doi: 10.1609/aaai.v38i21.30349.
